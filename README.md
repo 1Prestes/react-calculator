@@ -1,5 +1,5 @@
 This is a simple design of a calculator developed in ReactJS using [Create React App](https://github.com/facebook/create-react-app) for studies .
-## View deployment in [heroku](https://calculator-in-react.herokuapp.com/)
+## View deployment in [GitHub Pages](https://1prestes.github.io/react-calculator/)
 
 ## Available Scripts
 
